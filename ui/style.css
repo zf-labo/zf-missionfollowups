@@ -17,7 +17,7 @@ body {
 }
 
 .title {
-    color: #d913cf;
+    color: #00f8b8;
     margin-bottom: 1.5vh;
     font-size: 1.6vh;
 }
@@ -34,7 +34,7 @@ body {
     position: absolute;
     height: 6px;
     width: 50%;
-    background-color: #d913cf;
+    background-color: #00f8b8;
     left: 25%;
     top: 50%;
     transform: translateY(-50%);
