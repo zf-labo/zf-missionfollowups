@@ -1,6 +1,6 @@
 # ZF Mission Follow Ups
 A UI Script to show progression of the jobs/missions!
-Join up our [Discord](https://discord.gg/j8PxASSTsM)!
+Join up our [Discord]([https://discord.gg/FdbnkuhnkS)!
 
 ## Exports:
 `ShowUI(title, content)`
